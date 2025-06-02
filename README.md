@@ -1,5 +1,5 @@
-# Level-Learn
-📚 Project Name: LearnLoop – Adaptive Education for Every Learner
+# UnityED.ai
+📚 Project Name: UnityED.ai – Adaptive Education for Every Learner
 🌍 The Mission
 LearnLoop is an adaptive learning platform built to support homeschooled students, learners in under-resourced communities, and independent students worldwide. Our goal is to democratize access to quality education by offering a free, intelligent, and responsive platform that evolves with each learner.
 
